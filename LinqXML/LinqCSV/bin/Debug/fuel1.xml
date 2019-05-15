@@ -1,0 +1,4823 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <name>4C</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>V12 Vantage S</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>V8 Vantage</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>V8 Vantage</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>V8 Vantage S</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>V8 Vantage S</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Vantage GT</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Vantage GT</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>TT Roadster quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>M4 GTS</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Z4 sDrive28i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Z4 sDrive28i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Z4 sDrive35i</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Z4 sDrive35is</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CORVETTE</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>CORVETTE</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CORVETTE</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>CORVETTE</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Viper SRT</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>488 GTB</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>488 GTB</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F12</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>F12</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>F12 tdf</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>F12 tdf</name>
+    <combined>12</combined>
+  </car>
+  <car>
+    <name>F60 America</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>F60 America</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>CR-Z</name>
+    <combined>37</combined>
+  </car>
+  <car>
+    <name>CR-Z</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>F-TYPE Convertible</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>F-TYPE Convertible Manual</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>F-TYPE Coupe</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>F-TYPE Coupe Manual</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>F-TYPE R AWD Convertible</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F-TYPE R AWD Coupe</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F-TYPE R Convertible</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F-TYPE S AWD Convertible</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>F-TYPE S AWD Coupe</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>F-TYPE S Convertible</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>F-TYPE S Convertible Manual</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F-TYPE S Coupe</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>F-TYPE S Coupe Manual</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Aventador Coupe</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>Aventador Roadster</name>
+    <combined>12</combined>
+  </car>
+  <car>
+    <name>Huracan</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Huracan Spyder</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>MX-5</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>MX-5</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>570S Coupe</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>650S Coupe</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>650S Spider</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>675LT Coupe</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG GT S</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG SL 63</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>AMG SL 65</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>AMG SLK 55</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>SL 400</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>SL 550</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>SLK 300</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>SLK 350</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Smart fortwo (COUPE)</name>
+    <combined>36</combined>
+  </car>
+  <car>
+    <name>Smart fortwo (COUPE)</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>370Z</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>370Z</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>370Z Roadster</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>370Z Roadster</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Huayra Coupe</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>911 GT3</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>911 GT3RS</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Boxster</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Boxster</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Boxster GTS</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Boxster GTS</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Boxster S</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Boxster S</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Boxster Spyder</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Cayman</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Cayman</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Cayman GT4</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Cayman GTS</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Cayman GTS</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Cayman S</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Cayman S</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>DB9</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Vanquish</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>California T</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>California T</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>500</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>500</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>500</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>500</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>500 Abarth</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>500 Abarth</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Convertible</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Convertible</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Convertible</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Convertible</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>911 Carrera</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>911 Carrera</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 Cabriolet</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 Cabriolet</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 GTS Cabriolet</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4 GTS Cabriolet</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4S</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4S</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4S Cabriolet</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera 4S Cabriolet</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera Cabriolet</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>911 Carrera Cabriolet</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera GTS Cabriolet</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Carrera GTS Cabriolet</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>911 Carrera S</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>911 Carrera S</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera S Cabriolet</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Carrera S Cabriolet</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Targa 4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>911 Targa 4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Targa 4 GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Targa 4 GTS</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Targa 4S</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Targa 4S</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>911 Turbo</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>911 Turbo Cabriolet</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>911 Turbo S</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>911 Turbo S Cabriolet</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>FR-S</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>FR-S</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>BRZ</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>BRZ</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Rapide S</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>A3</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>A3 Cabriolet</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>A3 Cabriolet quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>A3 quattro</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>A5 Cabriolet quattro</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>A5 quattro</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>A5 quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>S3</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>S5</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>S5</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>S5 Cabriolet</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>TT Coupe quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>TTS Coupe</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Continental GT Convertible</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Continental GT Convertible</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>228i</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>228i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>228i Convertible</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>228i xDrive</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>228i xDrive Convertible</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>428i Convertible</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>428i xDrive Convertible</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>435i Convertible</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>435i xDrive Convertible</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>640i Convertible</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>640i Coupe</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>640i xDrive Convertible</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>640i xDrive Coupe</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>650i Convertible</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>650i Coupe</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>650i xDrive Convertible</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>650i xDrive Coupe</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>M2</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>M2</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>M235i</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>M235i</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>M235i Convertible</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>M235i Convertible</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>M235i xDrive</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>M235i xDrive Convertible</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>M4 Convertible</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>M4 Convertible</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>M6 Convertible</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>M6 Convertible</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>M6 Coupe</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>M6 Coupe</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>CASCADA</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>SPARK</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>SPARK</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>Fiesta FWD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Fiesta FWD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Fiesta SFE FWD</name>
+    <combined>36</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MUSTANG</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MUSTANG CONVERTIBLE</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>MUSTANG CONVERTIBLE</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>SHELBY GT350 MUSTANG</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Genesis Coupe</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Genesis Coupe</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>RC 200t</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>RC 300 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>RC 350</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>RC 350 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>RC F</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>GRANTURISMO</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>GRANTURISMO CONVERTIBLE</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>E 400 (convertible)</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>E 400 (coupe)</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>E 400 4MATIC (coupe)</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 550 (convertible)</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>E 550 (coupe)</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>MINI COOPER HARDTOP 2 DOOR</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>MINI COOPER HARDTOP 2 DOOR</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>MINI COOPER HARDTOP 4 DOOR</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>MINI COOPER HARDTOP 4 DOOR</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Hardtop 2 door</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Hardtop 2 door</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Hardtop 4 door</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Hardtop 4 door</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>MINI John Cooper Works Hardtop</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>MINI John Cooper Works Hardtop</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>GT-R</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Roush Stage 3 Mustang</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Roush Stage 3 Mustang</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>iA</name>
+    <combined>37</combined>
+  </car>
+  <car>
+    <name>iA</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>Beetle Convertible</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Beetle Convertible</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Beetle Convertible</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Eos</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ILX</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>TLX 2WD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>TLX 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>TLX 4WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>A4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>A4 quattro</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>A4 quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Q3</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Q3 quattro</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>S4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>S4</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Continental GT</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Continental GT</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>320i</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>320i</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>320i xDrive</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>328d</name>
+    <combined>36</combined>
+  </car>
+  <car>
+    <name>328d xDrive</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>328i</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>328i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>328i xDrive</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>340i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>340i</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>340i xDrive</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>340i xDrive</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>428i Coupe</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>428i Coupe</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>428i Gran Coupe</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>428i xDrive Coupe</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>428i xDrive Gran Coupe</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>435i Coupe</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>435i Coupe</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>435i Gran Coupe</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>435i xDrive Coupe</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>435i xDrive Coupe</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>435i xDrive Gran Coupe</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>640i Gran Coupe</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>640i xDrive Gran Coupe</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>650i Gran Coupe</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>650i xDrive Gran Coupe</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Alpina B6 Gran Coupe xDrive</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>M3</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>M3</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>M4 Coupe</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>M4 Coupe</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>M6 Gran Coupe</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>M6 Gran Coupe</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>VERANO</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>VERANO</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>VERANO</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ATS</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ATS</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>ATS</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ATS</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>ATS AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ATS AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>ATS-V</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>ATS-V</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CAMARO</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>CRUZE</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>CRUZE</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>CRUZE PREMIER</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>SONIC</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>SONIC</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>SONIC</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>SONIC</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>SONIC RS</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>SONIC RS</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Fiesta ST FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>FOCUS FWD</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>FOCUS FWD</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>FOCUS FWD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>FOCUS FWD</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>FOCUS FWD</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Focus FWD FFV</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Focus FWD FFV</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Focus FWD FFV</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>CIVIC 2Dr</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>CIVIC 2Dr</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>CIVIC 2Dr</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Accent</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Accent</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Veloster</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Veloster</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Veloster</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Veloster</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Q50 HYBRID</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Q50 HYBRID AWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Forte Koup</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Forte Koup</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Forte Koup</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Forte Koup</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Rio</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Rio</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Rio ECO</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>CT 200h</name>
+    <combined>42</combined>
+  </car>
+  <car>
+    <name>GS F</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>IS 200t</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>IS 300 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>IS 350</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>IS 350 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CX-3 2WD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>CX-3 4WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>MAZDA 2</name>
+    <combined>37</combined>
+  </car>
+  <car>
+    <name>MAZDA 2</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>MAZDA3 4-Door</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>MAZDA3 4-Door</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>MAZDA3 4-Door</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>MAZDA3 4-Door</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>MAZDA3 4-Door</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>AMG C 63</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>AMG C 63 S</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>AMG CLA 45 4MATIC</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>AMG CLS 63 S 4MATIC</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG S 63 4MATIC (coupe)</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG S 65 (coupe)</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>C 300</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>C 300 4MATIC</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>C 450 AMG</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>CLA 250</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>CLA 250 4MATIC</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>CLA 250 4MATIC</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>CLS 400</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>CLS 400 4MATIC</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CLS 550</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CLS 550 4MATIC</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>S 550 4MATIC (coupe)</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Countryman</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Countryman</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Paceman</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Paceman</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Countryman</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Countryman</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Countryman All4</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Countryman All4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Paceman</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Paceman</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Paceman ALL4</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Paceman ALL4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini JCW Countryman ALL4</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Mini JCW Countryman ALL4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini JCW Paceman ALL4</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Mini JCW Paceman ALL4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>LANCER</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>LANCER</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>LANCER</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>LANCER</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>LANCER 4WD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>VERSA</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>VERSA</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>VERSA</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Dawn</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>Phantom Coupe</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>Phantom Drophead Coupe</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>tC</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>tC</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>IMPREZA</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>IMPREZA</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>WRX</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>WRX</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>WRX</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>PRIUS c</name>
+    <combined>50</combined>
+  </car>
+  <car>
+    <name>YARIS</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>YARIS</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>Beetle</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Beetle</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Beetle</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Beetle</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Beetle Dune</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>CC</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CC</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CC 4Motion</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Golf</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Golf</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Golf R</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Golf R</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>GTI</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>GTI</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Jetta</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Jetta Hybrid</name>
+    <combined>44</combined>
+  </car>
+  <car>
+    <name>S60 AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>S60 AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>S60 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>S60 CC AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>S60 FWD</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>S60 FWD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>S60 Inscription AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>S60 Inscription FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>S60 Polestar AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>RLX</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>RLX</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>A6</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>A6 quattro</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>A6 quattro</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>A6 quattro</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>A7 quattro</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>A7 quattro</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>RS7</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>S6</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>S7</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>S8</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Flying Spur</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Flying Spur</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Mulsanne</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>528i</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>528i xDrive</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>535d</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>535d xDrive</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>535i</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>535i xDrive</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>550i</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>550i xDrive</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>ActiveHybrid 5</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>M5</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>M5</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>LACROSSE</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>LACROSSE</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>LACROSSE</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>LACROSSE AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>REGAL</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>REGAL</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>REGAL</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>REGAL</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>REGAL AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CTS SEDAN</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CTS SEDAN</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>CTS SEDAN</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>CTS SEDAN AWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>CTS SEDAN AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CTS-V</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED ECO</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>CRUZE LIMITED ECO</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>Impala Bi-Fuel (CNG)</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>MALIBU</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>MALIBU</name>
+    <combined>46</combined>
+  </car>
+  <car>
+    <name>MALIBU</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>MALIBU LIMITED</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>SONIC 5 RS</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>SONIC 5 RS</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>200</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>200</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>200</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>200 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Challenger</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Challenger</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Challenger</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Challenger</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Challenger</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Challenger SRT8</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Challenger SRT8</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Challenger SRT8</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Challenger SRT8</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Dart</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Dart</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Dart</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Dart</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Dart</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Dart Aero</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Dart Aero</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Dart GT</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Dart GT</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>FF</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>FF</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>FOCUS RS AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Focus ST FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>FUSION AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>FUSION FWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>FUSION FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>FUSION FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>FUSION FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>FUSION HYBRID FWD</name>
+    <combined>42</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ACCORD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CIVIC 4Dr</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>CIVIC 4Dr</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>CIVIC 4Dr</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Elantra</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Elantra</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Elantra</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Elantra</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Elantra GT</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Elantra GT</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Elantra Limited</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Sonata HYBRID</name>
+    <combined>41</combined>
+  </car>
+  <car>
+    <name>Sonata HYBRID SE</name>
+    <combined>42</combined>
+  </car>
+  <car>
+    <name>Q50</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Q50</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Q50 AWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Q50 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Q50S</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Q50S AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Q50S AWD Red Sport</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Q50S Red Sport</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Q70</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Q70</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Q70 AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Q70 AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Q70 HYBRID</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>XF</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>XF AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Forte</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>Forte</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Forte</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Optima HYBRID</name>
+    <combined>38</combined>
+  </car>
+  <car>
+    <name>Optima HYBRID EX</name>
+    <combined>37</combined>
+  </car>
+  <car>
+    <name>ES 300h</name>
+    <combined>40</combined>
+  </car>
+  <car>
+    <name>ES 350</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>GS 200t</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>GS 200t F SPORT</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>GS 350</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>GS 350 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>GS 350 F SPORT</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>GS 450h</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>LS 460</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>LS 460 AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>LS 460 L</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>LS 460 L AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>LS 600h L</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>MKZ AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>MKZ AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>MKZ FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>MKZ FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MKZ HYBRID FWD</name>
+    <combined>40</combined>
+  </car>
+  <car>
+    <name>Ghibli  S RWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Ghibli V6 Rear Wheel Drive (RWD)</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Ghibli V6 SQ4 AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MAZDA 6</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>MAZDA 6</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>MAZDA 6</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>MAZDA3 5-Door</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>MAZDA3 5-Door</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>MAZDA3 5-Door</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>MAZDA3 5-Door</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>MAZDA3 5-Door</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>AMG E 63 4MATIC</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>AMG E 63 S 4MATIC</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>E 250 BLUETEC</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>E 250 BLUETEC 4MATIC</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>E 350</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 350</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 350 4MATIC</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 350 4MATIC</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 400</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 400 4MATIC</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>E 550 4MATIC</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Clubman</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Mini Cooper Clubman</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Clubman</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Mini Cooper S Clubman</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ALTIMA</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>ALTIMA 3.5</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ALTIMA SR</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>MAXIMA</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>SENTRA</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>SENTRA</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>SENTRA FE+</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>Wraith</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>iM</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>iM</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>LEGACY</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>LEGACY</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>AVALON</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>AVALON HYBRID</name>
+    <combined>40</combined>
+  </car>
+  <car>
+    <name>CAMRY</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>CAMRY</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CAMRY HYBRID LE</name>
+    <combined>41</combined>
+  </car>
+  <car>
+    <name>CAMRY HYBRID XLE/SE</name>
+    <combined>40</combined>
+  </car>
+  <car>
+    <name>COROLLA</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>COROLLA</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>COROLLA</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>COROLLA</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>COROLLA LE ECO</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>COROLLA LE ECO</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>PRIUS</name>
+    <combined>52</combined>
+  </car>
+  <car>
+    <name>PRIUS Eco</name>
+    <combined>56</combined>
+  </car>
+  <car>
+    <name>Passat</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Passat</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>S80 FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>A8L</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>A8L</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>A8L</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>A8L</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>328i xDrive Gran Turismo</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>335i xDrive Gran Turismo</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>535i Gran Turismo</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>535i xDrive Gran Turismo</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>740i</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>750i</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>750i xDrive</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>X1 xDrive28i</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>CT6</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CT6 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CT6 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>XTS</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>XTS AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>XTS AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>IMPALA</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>IMPALA</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>IMPALA</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>IMPALA LIMITED</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>SS</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>SS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>300</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>300</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>300</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>300 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>300 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Charger</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Charger</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Charger</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Charger</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Charger AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Charger AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Charger SRT8</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Charger SRT8</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C-MAX Hybrid FWD</name>
+    <combined>40</combined>
+  </car>
+  <car>
+    <name>Special Service Police FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>TAURUS AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>TAURUS AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>TAURUS AWD FFV</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>TAURUS FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>TAURUS FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>TAURUS FWD FFV</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Azera</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Azera Limited</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Equus</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Genesis AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Genesis RWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Genesis RWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Sonata</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Sonata</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Sonata</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>Sonata Limited</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Sonata SPORT/LIMITED</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>XJ</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>XJ</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>XJ AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>XJL</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>XJL</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>XJL AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Cadenza</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Forte 5</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Forte 5</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Forte 5</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>K900</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>K900</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Optima</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>Optima</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Optima</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Optima FE</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Optima FE</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>MKS AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MKS AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MKS FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>QUATTROPORTE GTS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>QUATTROPORTE S</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>QUATTROPORTE SQ4 V6</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG S 63 4MATIC</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG S 65</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Maybach S 600</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>S 550</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>S 550 4MATIC</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>S 600</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Panamera</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Panamera 4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Panamera 4S</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Panamera 4S Executive</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Panamera GTS</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Panamera S</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Panamera Turbo</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Panamera Turbo Executive</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Panamera Turbo S</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Panamera Turbo S Executive</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Ghost</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Ghost EWB</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Phantom</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>Phantom EWB</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>allroad quattro</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>328d xDrive Sports Wagon</name>
+    <combined>34</combined>
+  </car>
+  <car>
+    <name>328i xDrive Sports Wagon</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>SONIC 5</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>SONIC 5</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>SONIC 5</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>SONIC 5</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>500L</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>500L</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>FIT</name>
+    <combined>36</combined>
+  </car>
+  <car>
+    <name>FIT</name>
+    <combined>35</combined>
+  </car>
+  <car>
+    <name>FIT</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>QX50</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>QX50 AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Soul</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Soul</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Soul</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Soul ECO dynamics</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>JUKE</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>JUKE</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>JUKE AWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>JUKE NISMO RS</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>JUKE NISMO RS AWD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>IMPREZA SPORT</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>IMPREZA SPORT</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>IMPREZA WAGON</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>IMPREZA WAGON</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Golf SportWagen</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Golf SportWagen</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>V60 AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>V60 AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>V60 AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>V60 FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>V60 Polestar AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>V60CC AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>AMG E 63 S 4MATIC (stat. wagon)</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>AMG GLA 45 4MATIC</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>E 350 4Matic (Wagon)</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>GLA 250</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>MURANO AWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>MURANO FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>MURANO Hybrid AWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>MURANO Hybrid FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>PRIUS v</name>
+    <combined>42</combined>
+  </car>
+  <car>
+    <name>COLORADO 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>COLORADO 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>COLORADO 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>COLORADO 2WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CANYON 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CANYON 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>CANYON 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>CANYON 2WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>FRONTIER 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>FRONTIER 2WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>FRONTIER 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>FRONTIER 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>TACOMA 2WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>TACOMA 2WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>COLORADO 4WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>COLORADO 4WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>COLORADO 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CANYON 4WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>CANYON 4WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>CANYON 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>FRONTIER 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>FRONTIER 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>TACOMA 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>TACOMA 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>TACOMA 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>TACOMA 4WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Tacoma 4WD Double Cab</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>F150 2.7L 2WD GVWR&gt;6649 LBS PAYLOAD PACKAGE</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>F150 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>F150 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>F150 2WD FFV</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>F150 2WD FFV</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F150 3.5L 2WD GVWR&gt;7599 LBS PAYLOAD PACKAGE</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F150 5.0L 2WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>1500 4X2</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>1500 4X2</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>1500 4X2</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>1500 4X2</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>1500 HFE 4X2</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>1500 HFE 4X2</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>F150 Pickup 2WD</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>TUNDRA 2WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>TUNDRA 2WD</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>TUNDRA 2WD FFV</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>F150 2.7L 4WD GVWR&gt;6799 LBS PAYLOAD PACKAGE</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>F150 3.5L 4WD GVWR&gt;7599 LBS PAYLOAD PACKAGE</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>F150 4WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>F150 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>F150 4WD FFV</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>F150 4WD FFV</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>F150 5.0L 4WD FFV GVWR&gt;7599 LBS PAYLOAD PACKAGE</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>1500 4X4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>1500 4X4</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>1500 4X4</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>1500 4X4</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>F150 Pickup 4WD</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>TUNDRA 4WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>TUNDRA 4WD</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>TUNDRA 4WD FFV</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>G2500 EXPRESS 2WD PASS MDPV</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>G3500 EXPRESS 2WD PASS MDPV</name>
+    <combined>12</combined>
+  </car>
+  <car>
+    <name>Transit T150 Wagon</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Transit T150 Wagon FFV</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>G2500 SAVANA 2WD PASS MDPV</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>G3500 SAVANA 2WD PASS MDPV</name>
+    <combined>12</combined>
+  </car>
+  <car>
+    <name>XTS HEARSE</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>XTS LIMO</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>City Express Cargo Van</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Transit Connect Van 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Transit Connect Van 2WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>TRANSIT CONNECT VAN FFV</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>TRANSIT CONNECT WAGON FFV</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>TRANSIT CONNECT WAGON FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>TRANSIT CONNECT WAGON FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>TRANSIT CONNECT WAGON LWB FFV</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Transit Connect Wagon LWB FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MKT LIVERY FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Metris (Cargo Van)</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Metris (Passenger Van)</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>NV200 Cargo Van</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>NV200 NYC Taxi</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Promaster City</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>MKT LIVERY AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C15 SILVERADO 2WD CAB CHASSIS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>COLORADO CAB CHASSIS 2WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>K15 SILVERADO 4WD CAB CHASSIS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>C15 SIERRA 2WD CAB CHASSIS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>CANYON CAB CHASSIS 2WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>K15 SIERRA 4WD CAB CHASSIS</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Town &amp; Country</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Town &amp; Country</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Grand Caravan</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Grand Caravan</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>ODYSSEY 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Sedona</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Sedona SX</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Sedona SXL</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>QUEST</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>SIENNA</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>SIENNA AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MDX 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MDX 2WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>RDX 2WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>X3 sDrive 28i</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>ENCORE</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>ENCORE</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>EQUINOX FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>EQUINOX FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>EQUINOX FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>TRAX</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Journey</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Journey</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>500X</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>500X</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>EDGE FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>EDGE FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>EDGE FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>ESCAPE FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ESCAPE FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ESCAPE FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>TERRAIN FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>TERRAIN FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>TERRAIN FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CR-V 2WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>HR-V 2WD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>HR-V 2WD</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>HR-V 2WD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>PILOT 2WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>PILOT 2WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Santa Fe FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Santa Fe Sport FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Santa Fe Sport FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Santa Fe Sport ULTIMATE FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Santa Fe Ultimate FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Tucson Eco FWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>Tucson FWD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Tucson FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>QX60 FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>QX70 RWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Cherokee FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Cherokee FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Cherokee FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Compass FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Compass FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Compass FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Compass FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Patriot FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Patriot FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Patriot FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Patriot FWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Renegade 4x2</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Renegade 4x2</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Sorento FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Sorento FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Sorento FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Sportage FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Sportage SX FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>NX 200t</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>NX 300h</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>RX 350</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>RX 450h</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>MKC  FWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>MKX FWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>MKX FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>CX-5 2WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>CX-5 2WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>GLC 300</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>OUTLANDER 2WD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>OUTLANDER SPORT 2WD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>OUTLANDER SPORT 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>OUTLANDER SPORT 2WD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>PATHFINDER 2WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>ROGUE FWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>HIGHLANDER</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>HIGHLANDER</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>RAV4</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>RAV4 LE/XLE</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Tiguan</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>XC60 FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>XC60 FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>XC70 FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>MDX 4WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MDX 4WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>RDX 4WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Q5</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Q5</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Q5</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Q5 Hybrid</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>SQ5</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>X3 xDrive28d</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>X3 xDrive28i</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>X3 xDrive35i</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>X4 M40i</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>X4 xDrive28i</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>X4 xDrive35i</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>ENCORE AWD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>ENCORE AWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>ENVISION AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>EQUINOX AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>EQUINOX AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>EQUINOX AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>TRAX AWD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Journey AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>500X AWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>EDGE AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>EDGE AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>EDGE AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>ESCAPE AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>ESCAPE AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>TERRAIN AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>TERRAIN AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>CR-V 4WD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>HR-V 4WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>HR-V 4WD</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>PILOT 4WD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>PILOT 4WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Santa Fe AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Santa Fe Sport AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Santa Fe Sport AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Santa Fe Ultimate AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Tucson AWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>Tucson AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Tucson Eco AWD</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>QX60 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>QX70 AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Cherokee 4X4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Cherokee 4X4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Cherokee 4X4</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Cherokee 4x4 Active Drive II</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Cherokee 4x4 Active Drive II</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Cherokee Trailhawk 4X4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Cherokee Trailhawk 4X4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Compass 4X4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Compass 4X4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Compass 4X4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Patriot 4X4</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Patriot 4X4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Patriot 4X4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Renegade 4x4</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>Renegade 4x4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Wrangler 4X4</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Wrangler 4X4</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Wrangler Unlimited 4X4</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Wrangler Unlimited 4X4</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Sorento AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Sorento AWD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Sorento AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Sorento AWD FE</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Sportage AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Sportage SX AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Discovery Sport</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Range Rover Evoque</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>NX 200t AWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>NX 200t AWD F SPORT</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>NX 300h AWD</name>
+    <combined>32</combined>
+  </car>
+  <car>
+    <name>RX 350 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MKC  AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MKC  AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>MKX AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>MKX AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>CX-5 4WD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>GLA 250 4MATIC</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>GLA 250 4MATIC</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>GLC 300 4MATIC</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>OUTLANDER 4WD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>OUTLANDER 4WD</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>OUTLANDER SPORT 4WD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>OUTLANDER SPORT 4WD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>PATHFINDER 4WD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>PATHFINDER 4WD PLATINUM</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>ROGUE AWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>Macan S</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Macan Turbo</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>CROSSTREK</name>
+    <combined>29</combined>
+  </car>
+  <car>
+    <name>CROSSTREK</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>CROSSTREK HYBRID</name>
+    <combined>31</combined>
+  </car>
+  <car>
+    <name>FORESTER</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>FORESTER</name>
+    <combined>27</combined>
+  </car>
+  <car>
+    <name>FORESTER</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>OUTBACK</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>OUTBACK</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>RAV4 AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>RAV4 HYBRID AWD</name>
+    <combined>33</combined>
+  </car>
+  <car>
+    <name>RAV4 Limited AWD/SE AWD</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Tiguan 4Motion</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>XC60 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>XC60 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>XC60 AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>XC70 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>X5 sDrive35i</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>X6 sDrive35i</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>ENCLAVE FWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>ESCALADE 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>SRX</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>C1500 SUBURBAN 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 SUBURBAN 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 TAHOE 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 TAHOE 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>TRAVERSE FWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Durango RWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>Durango RWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Expedition 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Expedition EL 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>EXPLORER FFV 2WD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>EXPLORER FWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>EXPLORER FWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Flex FWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>ACADIA FWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON XL 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON XL 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>C1500 YUKON XL 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>QX60 Hybrid FWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>QX80 2WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee 4X2</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee 4X2</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>MKT FWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Navigator 2WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>Navigator L 2WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>GLE 350</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>4RUNNER 2WD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>SEQUOIA 2WD</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>XC90 FWD</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>X5 M</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>X5 xDrive 35d</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>X5 xDrive35i</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>X5 xDrive50i</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>X6 M</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>X6 xDrive35i</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>X6 xDrive50i</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>ENCLAVE AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>ESCALADE 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>SRX AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 SUBURBAN 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 SUBURBAN 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 TAHOE 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 TAHOE 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>TRAVERSE AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Durango AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Durango AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Expedition 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Expedition EL 4WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>EXPLORER AWD</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>EXPLORER AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>EXPLORER AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>EXPLORER FFV AWD</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>FLEX AWD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>FLEX AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>ACADIA AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON XL 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON XL 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>K1500 YUKON XL 4WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>QX60 Hybrid AWD</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>QX80 4WD</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee 4X4</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee 4X4</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee 4X4</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Grand Cherokee SRT8 4x4</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>LR4</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Range Rover</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Range Rover</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Range Rover LWB</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Range Rover LWB</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Range Rover Sport</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Range Rover Sport</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>Range Rover Sport TDV6</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>Range Rover TDV6</name>
+    <combined>25</combined>
+  </car>
+  <car>
+    <name>GX 460</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>LX 570</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>RX 450h AWD</name>
+    <combined>30</combined>
+  </car>
+  <car>
+    <name>MKT AWD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Navigator 4WD</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Navigator L 4WD</name>
+    <combined>16</combined>
+  </car>
+  <car>
+    <name>AMG G 63</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>AMG G65</name>
+    <combined>12</combined>
+  </car>
+  <car>
+    <name>AMG GL 63</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>AMG GLE 63</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>AMG GLE 63 S</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>AMG GLE 63 S (coupe)</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>G 550</name>
+    <combined>13</combined>
+  </car>
+  <car>
+    <name>GL 350 BLUETEC 4MATIC</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>GL 450 4MATIC</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>GL 550 4MATIC</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>GLE 300 d 4MATIC</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>GLE 350 4MATIC</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>GLE 350 4MATIC</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>GLE 350 d 4MATIC</name>
+    <combined>26</combined>
+  </car>
+  <car>
+    <name>GLE 400 4MATIC</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>GLE 450 AMG (coupe)</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Cayenne</name>
+    <combined>21</combined>
+  </car>
+  <car>
+    <name>Cayenne Diesel</name>
+    <combined>23</combined>
+  </car>
+  <car>
+    <name>Cayenne GTS</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>Cayenne S</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>Cayenne Turbo</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>Cayenne Turbo S</name>
+    <combined>17</combined>
+  </car>
+  <car>
+    <name>4RUNNER 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>4RUNNER 4WD</name>
+    <combined>18</combined>
+  </car>
+  <car>
+    <name>HIGHLANDER AWD</name>
+    <combined>20</combined>
+  </car>
+  <car>
+    <name>HIGHLANDER HYBRID AWD</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>HIGHLANDER HYBRID AWD LE Plus</name>
+    <combined>28</combined>
+  </car>
+  <car>
+    <name>LAND CRUISER WAGON 4WD</name>
+    <combined>15</combined>
+  </car>
+  <car>
+    <name>SEQUOIA 4WD</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>SEQUOIA 4WD FFV</name>
+    <combined>14</combined>
+  </car>
+  <car>
+    <name>Touareg</name>
+    <combined>24</combined>
+  </car>
+  <car>
+    <name>Touareg</name>
+    <combined>19</combined>
+  </car>
+  <car>
+    <name>XC90 AWD</name>
+    <combined>22</combined>
+  </car>
+  <car>
+    <name>XC90 AWD</name>
+    <combined>23</combined>
+  </car>
+</cars>
